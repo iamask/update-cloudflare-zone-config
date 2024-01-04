@@ -19,7 +19,7 @@ Template will upadte:
  - run > "Terraform plan"
  - run > "Terraform apply"
 
- - **Note**: Terraform plan and apply command will prompt for API tokek and zone ID
+ - **Note**: Terraform plan and apply command will prompt for API token and zone ID
 
   **Reference** 
  - https://developers.cloudflare.com/fundamentals/api/get-started/create-token/
