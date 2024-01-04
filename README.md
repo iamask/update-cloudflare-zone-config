@@ -1,6 +1,6 @@
 This is a basic template to get started with Cloudflare after onboarding an Enterprise zone.
 
-Template will upadte:
+Template will update:
 
 - DNS
 - Zone level settings
